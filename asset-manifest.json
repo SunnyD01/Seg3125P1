@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Seg3125P1/static/css/main.6288ad61.css",
+    "main.js": "/Seg3125P1/static/js/main.c9883b96.js",
+    "static/js/787.d91fede2.chunk.js": "/Seg3125P1/static/js/787.d91fede2.chunk.js",
+    "static/media/JeremyRenner.png": "/Seg3125P1/static/media/JeremyRenner.59fc2b011f8392ebed54.png",
+    "static/media/ChrisHemsworth.png": "/Seg3125P1/static/media/ChrisHemsworth.3ebdbc89ece1774b0ec5.png",
+    "static/media/home2.png": "/Seg3125P1/static/media/home2.abf3c79b0d66e0f5a271.png",
+    "static/media/hompage1.png": "/Seg3125P1/static/media/hompage1.3555cb5f228e89ddef3d.png",
+    "static/media/MarkRuffalo.png": "/Seg3125P1/static/media/MarkRuffalo.076e66617ad1f31538e0.png",
+    "static/media/ChrisEvans.png": "/Seg3125P1/static/media/ChrisEvans.2a35bacbdf1662c200d6.png",
+    "static/media/ScarlettJohansson.png": "/Seg3125P1/static/media/ScarlettJohansson.d96e2b09bb82d6d2b8fe.png",
+    "static/media/logo.svg": "/Seg3125P1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Seg3125P1/index.html",
+    "main.6288ad61.css.map": "/Seg3125P1/static/css/main.6288ad61.css.map",
+    "main.c9883b96.js.map": "/Seg3125P1/static/js/main.c9883b96.js.map",
+    "787.d91fede2.chunk.js.map": "/Seg3125P1/static/js/787.d91fede2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6288ad61.css",
+    "static/js/main.c9883b96.js"
+  ]
+}
