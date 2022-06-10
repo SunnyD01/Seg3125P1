@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  p {
+    @apply text-white text-xl;
+  }
+  ,
+  h1 {
+    @apply text-white text-xl;
+  }
+}
